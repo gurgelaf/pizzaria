@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pizzaria/static/css/main.69cd0dde.chunk.css",
+    "main.js": "/pizzaria/static/js/main.915ec067.chunk.js",
+    "main.js.map": "/pizzaria/static/js/main.915ec067.chunk.js.map",
+    "runtime-main.js": "/pizzaria/static/js/runtime-main.40edde8b.js",
+    "runtime-main.js.map": "/pizzaria/static/js/runtime-main.40edde8b.js.map",
+    "static/js/2.b9ee165a.chunk.js": "/pizzaria/static/js/2.b9ee165a.chunk.js",
+    "static/js/2.b9ee165a.chunk.js.map": "/pizzaria/static/js/2.b9ee165a.chunk.js.map",
+    "index.html": "/pizzaria/index.html",
+    "precache-manifest.2832e72bbcf14267a734db488f6e37a6.js": "/pizzaria/precache-manifest.2832e72bbcf14267a734db488f6e37a6.js",
+    "service-worker.js": "/pizzaria/service-worker.js",
+    "static/css/main.69cd0dde.chunk.css.map": "/pizzaria/static/css/main.69cd0dde.chunk.css.map",
+    "static/js/2.b9ee165a.chunk.js.LICENSE.txt": "/pizzaria/static/js/2.b9ee165a.chunk.js.LICENSE.txt",
+    "static/media/casa.jpg": "/pizzaria/static/media/casa.9a1d1aa4.jpg",
+    "static/media/App.css": "/pizzaria/static/media/pizza.09e062b5.jpg",
+    "static/media/peru.png": "/pizzaria/static/media/peru.a5972ca5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40edde8b.js",
+    "static/js/2.b9ee165a.chunk.js",
+    "static/css/main.69cd0dde.chunk.css",
+    "static/js/main.915ec067.chunk.js"
+  ]
+}
