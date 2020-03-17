@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7462ad59858b1e28eadad7429b353e95",
+    "revision": "5b7a5d3e942b70b6ef3427d5abb3f43c",
     "url": "/pizzaria/index.html"
   },
   {
-    "revision": "7061dc33549886f19793",
-    "url": "/pizzaria/static/css/main.69cd0dde.chunk.css"
+    "revision": "61a42066fd81fa1eb47e",
+    "url": "/pizzaria/static/css/main.66ab78ad.chunk.css"
   },
   {
     "revision": "278d976c3e93e5be67e0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pizzaria/static/js/2.b9ee165a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7061dc33549886f19793",
-    "url": "/pizzaria/static/js/main.915ec067.chunk.js"
+    "revision": "61a42066fd81fa1eb47e",
+    "url": "/pizzaria/static/js/main.54c4b343.chunk.js"
   },
   {
     "revision": "457ca4455a23ceeb0c55",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pizzaria/static/media/casa.9a1d1aa4.jpg"
   },
   {
-    "revision": "e5067bf99c573422aa466f571bf1dac2",
-    "url": "/pizzaria/static/media/emprego.e5067bf9.jpg"
+    "revision": "45c7bc6292f9f3f149d91159b70d1970",
+    "url": "/pizzaria/static/media/emprego.45c7bc62.png"
   },
   {
     "revision": "a5972ca5edb2f8853890d3dbbd018120",
